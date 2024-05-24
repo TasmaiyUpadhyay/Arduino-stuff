@@ -1,1 +1,1 @@
-The above 2 projects are addressing the problem statement of building an arduino circuit and code that glows different LEDs for different distances measured by an ultrasonic sensor!
+All above files are either design images or code files for various projects! Please feel free to contact regarding any of the projects and their details! Email: upadhyaytasmaiy@gmail.com
